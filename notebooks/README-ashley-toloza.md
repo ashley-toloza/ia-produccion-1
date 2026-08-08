@@ -28,7 +28,7 @@ Se generaron gráficos esenciales para validar y comunicar los insights más fue
 💻 **Estructura y Tecnologías**
 
 El proyecto se desarrolló siguiendo un flujo modular organizado en la carpeta `notebooks/`:
-- **Consolidación y Carga / EDA (Ashley Toloza):** Ingesta del archivo Excel, inspección de nulos, resúmenes estadísticos (`describe()`), validación de rangos, previsualización y análisis temporal/de fechas.
+- **EDA y Analisis de fechas (Ashley Toloza):** Ingesta del archivo Excel, inspección de nulos, resúmenes estadísticos (`describe()`), validación de rangos, previsualización y análisis temporal/de fechas.
 - **Tablas, Gráficos de Resumen y Procesamiento (Felipe Vallejos):** Generación de tablas agrupadas, visualizaciones con Matplotlib, conteos de valores y extracción de año desde el `ID Proyecto`.
 - **Procesamiento y Filtros (Mijael):** Carga del archivo Excel, vista previa (`head()`), extracción del año desde el `ID Proyecto` (últimos 2 dígitos), filtrado del año 2025, conteo de registros y análisis de los últimos caracteres del código de proyecto.
 - **Análisis y Filtrado Básico (Pablo Villegas - Rama: `Villegates`):** Carga del archivo Excel (`plan_de_compras_2025.xlsx`), vista previa, extracción y creación de la columna `Año Proyecto`, filtrado del año 2025 y conteo a partir de los códigos de proyecto.

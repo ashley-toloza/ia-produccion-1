@@ -42,7 +42,7 @@ El proyecto se desarrolló siguiendo un flujo modular organizado en la carpeta `
 📁 **Contenido del Repositorio**
 
 - `notebooks/ashley-toloza.ipynb`: Notebook de Ashley dedicado a la carga de datos, inspección inicial (EDA) y análisis de fechas.
-- `notebooks/felipe-vallejos.ipynb`: Notebook de Felipe que agrupa las tablas de resumen, los gráficos estadísticos y el análisis de distribución por Unidad de Compra.
+- `notebooks/felipe-vallejos.ipynb`: Notebook de Felipe que agrupa las tablas de resumen, los gráficos estadísticos.
 - `notebooks/mijael.ipynb`: Notebook complementario de Mijael enfocado en la vista previa (`head()`), extracción del año desde el `ID Proyecto`, filtrado del año 2025 y conteo de códigos.
 - `notebooks/Villegates.ipynb`: Notebook de Pablo Villegas centrado en el análisis básico, extracción del año desde el `ID Proyecto`, filtrado de registros 2025 y conteo de valores de códigos de proyecto.
 - `plan_de_compras_2025.xlsx`: Archivo de datos fuente de compras públicas.
